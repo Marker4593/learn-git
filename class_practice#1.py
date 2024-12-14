@@ -22,3 +22,4 @@ class Person:
 person = Person("Michael", 30, "Male")
 person.display_info()
 # person.age = 0 An error will occur
+#test add to git
